@@ -19,7 +19,7 @@ class EquipmentsSeeder extends Seeder
             'ref1Url' => 'https://storage.googleapis.com/gogym-bangkit-capstone.appspot.com/tutorial/Barbel/y2mate.com%20-%20A%20beginners%20guide%20to%20properly%20exercise%20with%20a%20barbell_480p.mp4',
             'ref2Url' => 'https://storage.googleapis.com/gogym-bangkit-capstone.appspot.com/tutorial/Barbel/y2mate.com%20-%20How%20to%20use%20a%20barbell%20%20Beginner%20tips%20%20etiquette%20at%20the%20gym%20PRIDEFIT_1080p.mp4',
             'description' => 'Barbell/Dumbell adalah salah satu jenis alat fitness yang digunakan untuk melatih kekuatan dan membangun otot. Barbell terdiri dari sebuah batang logam yang panjang dengan beban di kedua ujungnya. Beban pada barbell dapat berupa piringan logam yang dilepas atau berat tetap yang melekat pada batang.',
-            'photoUrl' => 'https://storage.googleapis.com/gogym-bangkit-capstone.appspot.com/photo/Barbel.webp'
+            'photoUrl' => 'https://storage.googleapis.com/gogym-bangkit-capstone.appspot.com/photo/Dumbell.png'
         ]);
 
 
